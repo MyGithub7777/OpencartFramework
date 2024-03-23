@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-23T09:07:40 IST" name="Default suite" finished-at="2024-03-23T09:08:07 IST" duration-ms="26305">
+    <groups>
+    </groups>
+    <test started-at="2024-03-23T09:07:40 IST" name="Default test" finished-at="2024-03-23T09:08:07 IST" duration-ms="26305">
+      <class name="com.opencart.testlayer.LoginTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.opencart.testlayer.LoginTest@5b239d7d]" started-at="2024-03-23T09:07:40 IST" name="start" finished-at="2024-03-23T09:07:41 IST" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.opencart.testlayer.LoginTest@5b239d7d]" started-at="2024-03-23T09:07:41 IST" name="setUp" finished-at="2024-03-23T09:07:54 IST" duration-ms="13036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginTestWithInValidDetails()[pri:0, instance:com.opencart.testlayer.LoginTest@5b239d7d]" started-at="2024-03-23T09:07:54 IST" name="verifyLoginTestWithInValidDetails" finished-at="2024-03-23T09:07:55 IST" duration-ms="1306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTestWithInValidDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencart.testlayer.LoginTest@5b239d7d]" started-at="2024-03-23T09:07:55 IST" name="tearDown" finished-at="2024-03-23T09:07:57 IST" duration-ms="1689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.opencart.testlayer.LoginTest@5b239d7d]" started-at="2024-03-23T09:07:57 IST" name="setUp" finished-at="2024-03-23T09:08:04 IST" duration-ms="7042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginTestWithValidDetails()[pri:0, instance:com.opencart.testlayer.LoginTest@5b239d7d]" started-at="2024-03-23T09:08:04 IST" name="verifyLoginTestWithValidDetails" finished-at="2024-03-23T09:08:05 IST" duration-ms="1530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTestWithValidDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencart.testlayer.LoginTest@5b239d7d]" started-at="2024-03-23T09:08:05 IST" name="tearDown" finished-at="2024-03-23T09:08:07 IST" duration-ms="1530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="end()[pri:0, instance:com.opencart.testlayer.LoginTest@5b239d7d]" started-at="2024-03-23T09:08:07 IST" name="end" finished-at="2024-03-23T09:08:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- com.opencart.testlayer.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
