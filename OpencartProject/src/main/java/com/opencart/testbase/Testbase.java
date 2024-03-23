@@ -77,7 +77,7 @@ public class Testbase {
 		
 		//---------- Object creation --------------- 
 		homepage_obj = new Homepage(driver);
-//		registerpage_obj = new Registerpage(driver);
+		registerpage_obj = new Registerpage(driver);
 		loginpage_obj = new Loginpage(driver);
 		common_obj = new CommonComp(driver);
 		excel_obj = new ExcelUtils();
