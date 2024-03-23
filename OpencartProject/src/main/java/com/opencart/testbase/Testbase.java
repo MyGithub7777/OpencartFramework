@@ -76,11 +76,11 @@ public class Testbase {
 		logger.info("Browser launed with url");
 		
 		//---------- Object creation --------------- 
-//		homepage_obj = new Homepage(driver);
+		homepage_obj = new Homepage(driver);
 //		registerpage_obj = new Registerpage(driver);
-//		loginpage_obj = new Loginpage(driver);
-//		common_obj = new CommonComp(driver);
-//		excel_obj = new ExcelUtils();
+		loginpage_obj = new Loginpage(driver);
+		common_obj = new CommonComp(driver);
+		excel_obj = new ExcelUtils();
 	}
 	
 	@AfterMethod
